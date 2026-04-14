@@ -1,0 +1,217 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "id",
+      "main_label",
+      "comment"
+    ]
+  },
+  "results": {
+    "distinct": false,
+    "ordered": true,
+    "bindings": [
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/a2f03a0d-4b10-4568-a2e1-6faa1ce7b733"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "alto"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/a5e26285-f8bf-4435-8e62-6e661fef56a7"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AIR (MUSIQUE)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/ac033805-1f44-30a5-bace-fcfde2cfc1df"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "ACCENTUS"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/af4cb0f0-743a-4d23-81d8-2506346fd0ae"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "alto"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/0002c407-c2e9-336d-97ac-2bd0021a6e06"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Andrew Goodwin"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/000381bd-0203-3c62-8496-abb032aa209c"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Arnold Wesker"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/000381bd-0203-3c62-8496-abb032aa209c"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Arnold Wesker"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/00043ef8-bff2-3ef4-be5a-7139ea03a7eb"
+        },
+        "main_label": {
+          "type": "literal",
+          "xml:lang": "us-laoo",
+          "value": "Andrey Ilyushnikov"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/0008e502-7a2e-346a-a6b7-7ea24d7d2e7e"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Alice Dufour"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/000ebfea-e450-35ac-99c7-0b58bbc15f62"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Alfonso Broqua"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/000ebfea-e450-35ac-99c7-0b58bbc15f62"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Alfonso Broqua"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/000f52b6-d939-3090-bedb-e653332ea915"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "André Jacquemin"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/001245b8-6b21-3c82-b87e-8322d9051188"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "A FOUCHE"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/00129274-e2bc-3629-8b26-4c1af1a87eb6"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Abbaye Saint-Guénolé"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/00148458-d768-341c-9ef6-eafb870d87e8"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Allaoua Zerrouki"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/001541b4-48cd-383d-9314-c936191b67ac"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Andrew Skidmore"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/001581e4-2785-362d-beda-fab47045d366"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Aldo Tassone"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/0015a2b6-fabb-3ad5-91c2-f77b0f084956"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Alain Tourret"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/00164266-a0f9-3f7f-b85f-60c60145db53"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Arnaud Basdevant"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/artist/00170129-86e4-3fc1-a0ce-18f6be36097c"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Agnès Bove"
+        }
+      }
+    ]
+  }
+}

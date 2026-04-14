@@ -1,0 +1,216 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "id",
+      "main_label",
+      "comment"
+    ]
+  },
+  "results": {
+    "distinct": false,
+    "ordered": true,
+    "bindings": [
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/587fe66d-bce6-3f71-b518-80fba72091e6"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "ALTERNANCE"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/5a836635-21d7-3759-9cae-dd9e4df60c7c"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "ACCROCHE NOTE"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/67f3467d-c948-4ed2-b7ef-5b8c7e5815b4"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AIR (MUSIQUE)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/6ff25b29-ef21-3bf7-bf56-6bbd4213675c"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "Arte dei Suonatori"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/703aa66e-e789-36ef-af1b-826b8ae03da8"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "ALMELA, Antonio (violon)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/72333146-11e3-4f8d-853e-d7d859d14238"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AIR (MUSIQUE)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/72b71e7e-dc21-4e9f-a6e3-f4c0e9fcac5b"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AIR (MUSIQUE)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/7602014a-3027-4b9d-ac6b-38c7c0092cd8"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AIR (MUSIQUE)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/762fbd61-2795-385a-9035-0339e092c042"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AEDES"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/7650ed5c-34d2-3f0f-a3cd-afd61ecc5c99"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "autre clavier"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/825218f7-6c75-4c0f-bbdd-a4b1fc2094e4"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AIR (MUSIQUE)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/832e275c-60c2-493c-afe8-a39500be56f6"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "alto"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/8486cca9-79eb-4f7c-963d-94161c372091"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AIR (MUSIQUE)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/848af3a5-d0d5-3ade-b575-7100a5db954c"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "autres cordes"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/88ac33f8-d8ea-3d48-8491-955e64defae9"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "autre cuivre"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/903e65a7-e82e-3211-9da0-f4e59dbfb4cc"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "ALMELA, Antonio (violons)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/95d26308-09f8-3750-8e3a-7bc82e3e9f96"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "autre instrument divers"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/9f7d5fb2-786b-4c8e-8810-dfbf031fe68a"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AIR (MUSIQUE)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/a135f69a-86c2-4131-b48c-9e17bdae8bf2"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AIR (MUSIQUE)"
+        }
+      },
+      {
+        "id": {
+          "type": "uri",
+          "value": "http://data.doremus.org/a1788f3b-ca51-444c-a207-53e61a836b1c"
+        },
+        "main_label": {
+          "type": "literal",
+          "value": "AIR (MUSIQUE)"
+        }
+      }
+    ]
+  }
+}
