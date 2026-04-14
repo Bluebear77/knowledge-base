@@ -1,0 +1,58 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix schema: <http://schema.org/> .
+@prefix ecrm:	<http://erlangen-crm.org/current/> .
+
+<http://data.doremus.org/organization/DOREMUS> a foaf:Project, prov:Agent ;
+  rdfs:label "DOREMUS" ;
+  foaf:homepage <http://www.doremus.org/> ;
+  foaf:logo "http://www.doremus.org/wp-content/uploads/2015/06/Logotype-Doremus-VA-Couleurs.png" ;
+  rdfs:comment "Initiated in late 2014, DOREMUS is a research project based on the semantic web technologies, aiming to develop tools and methods to describe, publish, connect and contextualize music catalogues on the web of data. Its primary objective is to provide common knowledge models and shared multilingual controlled vocabularies." .
+
+<http://data.doremus.org/organization/Philharmonie_de_Paris> a foaf:Organization, prov:Agent ;
+  rdfs:label "Philharmonie de Paris" ;
+  foaf:topic_interest <http://data.doremus.org/organization/DOREMUS> ;
+  owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb16651244g> ;
+  owl:sameAs <http://viaf.org/viaf/315254866> ;
+  owl:sameAs <http://dbpedia.org/resource/Philharmonie_de_Paris> ;
+  owl:sameAs <http://www.wikidata.org/entity/Q3378907> ;
+  owl:sameAs <http://data.doremus.org/artist/8f195289-d887-3fb2-839f-45d4c8e58fda> ;
+  owl:sameAs <http://data.doremus.org/artist/f8401fcd-1e30-3cde-a7d7-5c51b62fa8b4> ;
+  schema:location <http://data.doremus.org/place/bd21be9c-3f2b-3aa3-a460-114d579eabe6>.
+
+<http://data.doremus.org/place/bd21be9c-3f2b-3aa3-a460-114d579eabe6> a ecrm:E53_Place ;
+  rdfs:label "Philharmonie de Paris" ;
+  ecrm:P89_falls_within <http://sws.geonames.org/2988507/>;
+  owl:sameAs <http://data.doremus.org/place/eb53e50b-bfbc-35f1-bb23-7e6a2e60ea1c> ;
+  owl:sameAs <http://data.doremus.org/place/1eecc91c-60a7-33d2-87c4-a207b2e9623a> ;
+  owl:sameAs <http://data.doremus.org/place/42b7a5a1-61c7-3838-9771-1fd065a7a4ab> ;
+  owl:sameAs <http://data.doremus.org/place/01119211-51a5-301a-9077-d1de584d1882> ;
+  owl:sameAs <http://data.doremus.org/place/a54c7c26-ed3e-3312-87ae-3324614d454a> ;
+  owl:sameAs <http://data.doremus.org/place/2c1983d6-ac3a-3e7c-9b98-2b264fab004d> ;
+  owl:sameAs <http://data.doremus.org/place/6b28afca-0c8c-3858-8c55-d2391f21fbb3> .
+
+<http://data.doremus.org/organization/BnF> a foaf:Organization, prov:Agent ;
+  rdfs:label "Bibliothèque Nationale de France" ;
+  foaf:topic_interest <http://data.doremus.org/organization/DOREMUS> ;
+  owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb12381002j> ;
+  owl:sameAs <http://viaf.org/viaf/137156173> ;
+  owl:sameAs <http://www.isni.org/isni/0000000121751303> ;
+  owl:sameAs <http://dbpedia.org/resource/Bibliotheque_nationale_de_France> ;
+  owl:sameAs <http://www.wikidata.org/entity/Q193563> .
+
+<http://data.doremus.org/organization/Radio_France> a foaf:Organization, prov:Agent ;
+  rdfs:label "Radio France" ;
+  foaf:topic_interest <http://data.doremus.org/organization/DOREMUS> ;
+  owl:sameAs <http://catalogue.bnf.fr/ark:/12148/cb13889733p> ;
+  owl:sameAs <http://viaf.org/viaf/132649088/> ;
+  owl:sameAs <http://www.isni.org/isni/0000000122649140> ;
+  owl:sameAs <http://dbpedia.org/resource/Radio_France> ;
+  owl:sameAs <https://www.wikidata.org/entity/Q2120364> .
+
+
+<http://data.doremus.org/doremus> a dcat:Catalog ;
+    rdfs:label "DOREMUS dataset" .
