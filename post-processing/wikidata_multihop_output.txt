@@ -1,0 +1,23 @@
+Wikidata Multi-hop Connection Check Result
+=============================================
+
+QID 1: Q689874
+QID 2: Q368045
+
+Entity existence
+--------------------
+Q689874: exists
+Q368045: exists
+
+Multi-hop connection analysis
+------------------------------
+Maximum hops searched: 3
+
+Connection found.
+Number of hops: 1
+
+Triplets along the path:
+Q689874	P159	Q368045
+
+Readable path:
+Q689874 -> P159 -> Q368045
